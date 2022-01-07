@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ec451df09af8250d4d4b5c7c377727cea989cd0114135c6193cc46d461ae57ad"
+            "sha256": "e9c7d13b53b8aca404b0d1bd5f61e9a6754b11174075f9c40fb86434bc10212d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,13 +31,21 @@
             "index": "pypi",
             "version": "==1.6.2"
         },
+        "pigpio": {
+            "hashes": [
+                "sha256:81e46f640c4e6342881fa9bbe290dbcd4fc179619dc6591e57a9d4a084dc49fa",
+                "sha256:91efa50e4990649da97408a384782d6ccf58342fc59cdfe21ed7a42911569975"
+            ],
+            "index": "pypi",
+            "version": "==1.78"
+        },
         "setuptools": {
             "hashes": [
-                "sha256:5c89b1a14a67ac5f0956f1cb0aeb7d1d3f4c8ba4e4e1ab7bf1af4933f9a2f0fe",
-                "sha256:675fcebecb43c32eb930481abf907619137547f4336206e4d673180242e1a278"
+                "sha256:2932bfeb248c648dc411ea9714d5a6de7a33ef1a0db2f0fce644d8172b0479e8",
+                "sha256:2b62b3dbec1fe95585dadf3bd9a014c8c578624918190428c3a7994bb52ae2b8"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==60.2.0"
+            "version": "==60.3.1"
         }
     },
     "develop": {}
